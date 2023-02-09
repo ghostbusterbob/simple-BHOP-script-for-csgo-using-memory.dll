@@ -1,0 +1,14 @@
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\bin\Debug\BHOP.exe.config
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\bin\Debug\BHOP.exe
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\bin\Debug\BHOP.pdb
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\bin\Debug\Memory.dll
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\bin\Debug\Memory.xml
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.csproj.AssemblyReference.cache
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.Form1.resources
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.Properties.Resources.resources
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.csproj.GenerateResource.cache
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.csproj.CoreCompileInputs.cache
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.csproj.CopyComplete
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.exe
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.pdb
+C:\Users\Jaysen\Documents\Visual Studio 2019\Projects\BHOP\BHOP\obj\Debug\BHOP.csproj.SuggestedBindingRedirects.cache
